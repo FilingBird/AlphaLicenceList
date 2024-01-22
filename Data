@@ -1,1 +1,17 @@
-
+{
+  "kullanici1": {
+    "numara1": "123456789",
+    "numara2": "3",
+    "numara3": "nope",
+  },
+  "kullanici2": {
+    "numara1": "789789",
+    "numara2": "-1",
+    "numara3": "naber",
+  },
+  "kullanici3": {
+    "numara1": "0000000",
+    "numara2": "2",
+    "numara3": "anti",
+  }
+}
